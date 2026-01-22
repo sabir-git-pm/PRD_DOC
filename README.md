@@ -1,0 +1,62 @@
+
+Epics – EdTech eLearning Platform Website 
+
+Epic 1: User Account Management 
+
+Enable learners to create accounts, authenticate securely, and manage sessions. 
+ 
+Business Value: 
+Provides controlled access and personalized learning. 
+ 
+Scope: 
+User registration, login/logout, password validation, session management, access control. 
+
+Epic 2: Program Discovery and Browsing 
+
+Allow users to view available programs and program details. 
+ 
+Business Value: 
+Helps learners understand offerings and increases engagement. 
+ 
+Scope: 
+Program listing, program details page, descriptions, availability status. 
+
+Epic 3: Program Enrollment Management 
+
+Enable learners to enroll in programs and track enrolled courses. 
+ 
+Business Value: 
+Formalizes learner participation and enables content access. 
+ 
+Scope: 
+Enroll in program, enrollment confirmation, validation, learner dashboard. 
+
+Epic 4: Learning Content Access and Consumption 
+
+Provide enrolled learners access to modules and lessons. 
+ 
+Business Value: 
+Delivers the core educational experience. 
+ 
+Scope: 
+Module listing, lesson access, enrollment-based visibility, navigation. 
+
+Epic 5: Admin Program and Content Management 
+
+Allow administrators to manage programs and learning content. 
+ 
+Business Value: 
+Supports scalability and operational control. 
+ 
+Scope: 
+Add/update programs, manage modules and lessons, enable/disable programs. 
+
+Epic 6: Platform Quality, Performance, and Security 
+
+Ensure platform reliability, usability, and security. 
+ 
+Business Value: 
+Improves trust and learner satisfaction. 
+ 
+Scope: 
+Responsive UI, performance optimization, secure data handling, error handling. 
